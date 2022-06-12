@@ -1,0 +1,15 @@
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+click==8.1.3
+frozendict==2.2.1
+greenlet==1.1.2
+idna==3.3
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+numpy==1.22.4
+PyYAML==6.0
+requests==2.27.1
+SQLAlchemy==1.4.37
+TA-Lib==0.4.24
+urllib3==1.26.9
+websockets==10.1

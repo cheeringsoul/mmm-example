@@ -1,0 +1,3 @@
+STRATEGIES = [
+    'strategy.hym.strategy'
+]
